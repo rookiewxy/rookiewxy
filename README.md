@@ -2,9 +2,6 @@
 
 😄I'm Rookiewxy
 
-
-<img alt="" class="has" src="https://img-blog.csdnimg.cn/20181124143325990.gif">
-
 - A Web front-end developer & Front end enthusiasts.
 - 💻 Σ(っ °Д °;)っ
 - 📫 Now living in Hangzhou
