@@ -1,9 +1,15 @@
 ### Hi there 👋
+
 😄I'm Rookiewxy
+
+
+<img alt="" class="has" src="https://img-blog.csdnimg.cn/20181124143325990.gif">
+
 - A Web front-end developer & Front end enthusiasts.
 - 💻 Σ(っ °Д °;)っ
 - 📫 Now living in Hangzhou
 - 💬 My E-mail:2586958565@qq.com
+- [My blog](https://rookiewxy.github.io/record-blog/)
 - ... More wait
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rookiewxy&show_icons=true&theme=dark&count_private=true)
