@@ -6,7 +6,6 @@
 - 💻 Σ(っ °Д °;)っ
 - 📫 Now living in Hangzhou
 - 💬 My E-mail:2586958565@qq.com
-- [My blog](https://rookiewxy.github.io/record-blog/)
 - ... More wait
 
 ### 今年汇总 ✨
